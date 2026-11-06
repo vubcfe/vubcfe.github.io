@@ -1,0 +1,60 @@
+cv:
+  name: Cao Vu Bui
+  label: Lecturer & Researcher
+  email: vubc@fe.edu.vn
+  location: Da Nang, Vietnam
+  summary: Applied AI for satellite imagery, agriculture and industry.
+
+  social_networks:
+    - network: GitHub
+      username: vubcfe
+    - network: LinkedIn
+      username: cao-vu-bui-2b30aaa8
+
+  sections:
+    Education:
+      - institution: Université de Technologie de Troyes
+        location: Troyes, France
+        area: Engineering Science
+        studyType: Ph.D.
+        start_date: 2015
+        end_date: 2018
+        highlights:
+          - CIFRE industrial research agreement between Levels3D and the GAMMA3 team (UTT–INRIA)
+
+      - institution: Grenoble INP – Génie industriel
+        location: Grenoble, France
+        area: Product Engineering
+        studyType: Engineer's degree
+        start_date: 2010
+        end_date: 2013
+
+      - institution: Danang University of Science and Technology
+        location: Da Nang, Vietnam
+        area: Programme de Formation d'Ingénieurs d'Excellence au Vietnam (PFIEV)
+        start_date: 2007
+        end_date: 2010
+
+    Experience:
+      - company: FPT University
+        position: Lecturer & Researcher, Department of Artificial Intelligence
+        location: Da Nang, Vietnam
+        start_date: 2024-05
+        end_date: present
+
+      - company: LTU
+        position: 3D Computer Vision Engineer
+        location: Paris, France
+        start_date: 2019-07
+        end_date: 2023
+        highlights:
+          - Content-based 3D model retrieval
+
+      - company: Levels3D
+        position: Research and Development Engineer
+        location: Troyes, France
+        start_date: 2014-02
+        end_date: 2019-07
+        highlights:
+          - Real-time indoor 3D reconstruction
+          - Geometric and semantic segmentation of point clouds for BIM
