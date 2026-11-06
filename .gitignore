@@ -1,0 +1,7 @@
+# Allowlist: only the site itself is ever committed.
+*
+!.gitignore
+!index.html
+!style.css
+!images/
+!images/**
