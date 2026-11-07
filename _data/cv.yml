@@ -3,7 +3,7 @@ cv:
   label: Lecturer & Researcher
   email: vubc@fe.edu.vn
   location: Da Nang, Vietnam
-  summary: Applied AI for satellite imagery, agriculture and industry.
+  summary: Reliable spatial AI for perennial crops, from satellite and UAV sensing to validated maps and yield estimates.
 
   social_networks:
     - network: GitHub
@@ -58,3 +58,4 @@ cv:
         highlights:
           - Real-time indoor 3D reconstruction
           - Geometric and semantic segmentation of point clouds for BIM
+          - Co-inventor, French patent FR3053817B1 (granted 2021); international application WO2018007628A1

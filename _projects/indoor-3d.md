@@ -9,4 +9,4 @@ related_publications: false
 
 At Levels3D, I worked on real-time 3D reconstruction of indoor environments and on turning point clouds into usable building models through geometric and semantic segmentation. This work was the subject of my Ph.D. and of the patent below.
 
-Patent: [WO2018007628, Method and system for reconstructing a three-dimensional representation](https://patents.google.com/patent/WO2018007628A1/en)
+Patent: French patent [FR3053817B1](https://patents.google.com/patent/FR3053817B1/fr) (granted 2021); international application [WO2018007628A1](https://patents.google.com/patent/WO2018007628A1/en), "Method and system for reconstructing a three-dimensional representation".

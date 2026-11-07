@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Satellite imagery for agriculture
-description: Crop and land cover mapping from Sentinel-2
+title: Reliable crop monitoring
+description: Satellite and UAV sensing of perennial crops, starting with coffee
 importance: 1
 category: satellite imagery
 related_publications: true
 ---
 
-This work uses Sentinel-2 imagery to map crops and land cover, with a focus on Vietnamese agricultural landscapes. It covers crop classification, coffee plantation mapping, image compression and super-resolution, and how well models hold up across seasons.
+This work maps and monitors perennial crops in Vietnam, starting with coffee in the Central Highlands. It uses Sentinel-2 and Sentinel-1 time series for plantation mapping and yield estimation. The question behind it is how reliable these maps and estimates are: how their errors change across seasons, years and regions, under cloud cover and lower resolution, and how well a model's own uncertainty matches its real error when checked against field data.
+
+The next steps are UAV-based 3D measurement of coffee canopies, used as a reference with known error for satellite models, and the effect of compression and on-device processing on map accuracy.
 
 ## Related publications
 
-{% cite bui2026residualtail bui2026crossseason le2026aidriven le2026regionaware %}
+{% cite le2026aidriven bui2026residualtail bui2026spectrally %}
