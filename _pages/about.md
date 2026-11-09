@@ -30,7 +30,7 @@ I study this question through multi-scale remote sensing for smart agriculture i
 - **Reliability of geospatial foundation models.** How much crop maps and yield estimates degrade across seasons, regions, cloud cover and sensors, and whether a model's uncertainty matches its real error.
 - **Deployable decision systems.** Edge processing, and AI assistants that report their uncertainty, built with and tested by real users.
 
-I also work on industry projects: an ultra-wideband (UWB) project with Qorvo and FPT Software, and SkyCadrAI, which applies AI to PCB layout.
+I am bringing this work into practice through [CloviX](https://clovix.tech/), a startup building a layered crop data platform from satellite to field. I also work on industry projects: an ultra-wideband (UWB) project with Qorvo and FPT Software, and SkyCadrAI, which applies AI to PCB layout.
 
 Before FPT University, I worked in France from 2014 to 2023 as a 3D computer vision engineer at Levels3D in Troyes and LTU in Paris, on real-time indoor 3D reconstruction, point cloud segmentation and 3D object retrieval. I completed my Ph.D. in Engineering Science at the Université de Technologie de Troyes in 2018 under an industrial CIFRE agreement.
 
