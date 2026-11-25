@@ -24,10 +24,11 @@ latest_posts:
 
 I am a Lecturer and Researcher in the Department of Artificial Intelligence at FPT University, Da Nang, Vietnam, which I joined in May 2024. I am an engineer by training, and my research asks a measurement question: how wrong is a map or an estimate produced by spatial AI, why, and how can we know before it is used?
 
-I study this question through multi-scale remote sensing for smart agriculture in Vietnam, combining Sentinel satellite data with UAV imagery, starting with coffee in the Central Highlands. My research program for the coming years rests on three pillars:
+I study this question through multi-scale remote sensing for smart agriculture in Vietnam, combining Sentinel satellite data with UAV imagery, starting with coffee in the Central Highlands. My research program for the coming years rests on four pillars, which follow the path from data to decisions:
 
 - **Multi-scale ground truth.** Field measurements, UAV surveys and 3D crop models with known error, matched to Sentinel-1 and Sentinel-2 time series. This builds on my Ph.D. work in 3D reconstruction.
-- **Reliability of geospatial foundation models.** How much crop maps and yield estimates degrade across seasons, regions, cloud cover and sensors, and whether a model's uncertainty matches its real error.
+- **Methods for multi-scale agricultural data.** Preprocessing, data fusion and models that reduce the error of crop maps and estimates under real conditions: frequent cloud cover, small fields, few labels and data at different scales, from satellite images to UAV point clouds.
+- **Reliability of spatial AI.** How much crop maps and yield estimates degrade across seasons, regions, cloud cover and sensors, and whether a model's uncertainty matches its real error.
 - **Deployable decision systems.** Edge processing, and AI assistants that report their uncertainty, built with and tested by real users.
 
 I am bringing this work into practice through [CloviX](https://clovix.tech/), a startup building a layered crop data platform from satellite to field. I also work on industry projects: an ultra-wideband (UWB) project with Qorvo and FPT Software, and SkyCadrAI, which applies AI to PCB layout.
