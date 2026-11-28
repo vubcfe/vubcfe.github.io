@@ -7,4 +7,4 @@ category: industry
 related_publications: false
 ---
 
-SkyCadrAI applies AI to printed circuit board (PCB) layout.
+SkyCadrAI applies AI to printed circuit board (PCB) layout. I work on it as a part-time consultant.
